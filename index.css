@@ -1,0 +1,21 @@
+.accordContainer{
+    margin: auto;
+    width: 50%;
+}
+
+.accordHeader{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 3rem;
+    border: 1px solid grey;
+    box-shadow: 5px 5px 3px grey;
+    padding: 1rem;
+}
+
+.accordBorder{
+    border: 1px solid grey;
+    border-top: none;
+    margin-bottom:1rem ;
+    padding: 1rem;
+}
